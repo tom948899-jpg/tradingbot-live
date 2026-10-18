@@ -1,0 +1,304 @@
+{
+ "updated_utc": "2026-10-18T15:30:07+00:00",
+ "updated_berlin": "18.10.2026, 17:30 Uhr",
+ "play_money": true,
+ "hauptportfolio": {
+  "value": 997.9003539574112,
+  "return_total": -0.002099646042588832,
+  "return_today": -0.0014649771820858248,
+  "fees": 0.2711564834363268,
+  "members": [
+   "tsmom",
+   "xsmom",
+   "voltrend",
+   "meanrev",
+   "dualmom",
+   "ml"
+  ],
+  "positions": {
+   "BTC-USD": {
+    "qty": 0.0005289200342764508,
+    "entry": 72414.26643180066,
+    "price": 72102.87995758533,
+    "stop": 61481.032706204205,
+    "target": null
+   },
+   "ETH-USD": {
+    "qty": 0.04814794628578411,
+    "entry": 2128.185979550309,
+    "price": 2113.4609918669876,
+    "stop": 1806.724537351416,
+    "target": null
+   },
+   "SOL-USD": {
+    "qty": 1.4261643881953072,
+    "entry": 91.42518492455274,
+    "price": 90.75568770080694,
+    "stop": 77.5959784109345,
+    "target": null
+   }
+  }
+ },
+ "leaderboard": [
+  {
+   "name": "dualmom",
+   "label": "Dual Momentum (Aktien vs. Anleihen)",
+   "value": 1000.0,
+   "total": 0.0,
+   "week": 0.0,
+   "day": 0.0,
+   "fees": 0.0,
+   "trades": 0,
+   "dd": 0.0,
+   "npos": 0,
+   "selected": true
+  },
+  {
+   "name": "meme",
+   "label": "Memecoin-Momentum (streng gedeckelt)",
+   "value": 1000.0,
+   "total": 0.0,
+   "week": 0.0,
+   "day": 0.0,
+   "fees": 0.0,
+   "trades": 0,
+   "dd": 0.0,
+   "npos": 0,
+   "selected": false
+  },
+  {
+   "name": "bench_spy",
+   "label": "Buy & Hold SPY (Vergleich)",
+   "value": 1000.0,
+   "total": 0.0,
+   "week": 0.0,
+   "day": 0.0,
+   "fees": 0.0,
+   "trades": 0,
+   "dd": 0.0,
+   "npos": 0,
+   "selected": false
+  },
+  {
+   "name": "bench_dca",
+   "label": "Sparplan MSCI World (Vergleich)",
+   "value": 1000.0,
+   "total": 0.0,
+   "week": 0.0,
+   "day": 0.0,
+   "fees": 0.0,
+   "trades": 0,
+   "dd": 0.0,
+   "npos": 0,
+   "selected": false
+  },
+  {
+   "name": "ml",
+   "label": "ML v2 (Gradient Boosting, Walk-Forward)",
+   "value": 998.337083491707,
+   "total": -0.0016629165082930886,
+   "week": -0.0011668959888411212,
+   "day": -0.0011668959888411212,
+   "fees": 0.19980019980019983,
+   "trades": 1,
+   "dd": -0.001283562457068621,
+   "npos": 1,
+   "selected": true
+  },
+  {
+   "name": "meta",
+   "label": "Meta-Allokator (Ensemble)",
+   "value": 997.9983881033538,
+   "total": -0.0020016118966461605,
+   "week": -0.001373675663903673,
+   "day": -0.001373675663903673,
+   "fees": 0.26866421874751434,
+   "trades": 3,
+   "dd": -0.0015135866590648694,
+   "npos": 3,
+   "selected": false
+  },
+  {
+   "name": "voltrend",
+   "label": "Trend mit Volatilit\u00e4ts-Ziel",
+   "value": 997.946486195486,
+   "total": -0.0020535138045139067,
+   "week": -0.0013867397306320806,
+   "day": -0.0013867397306320806,
+   "fees": 0.29493756861662856,
+   "trades": 3,
+   "dd": -0.0016004850985782415,
+   "npos": 3,
+   "selected": true
+  },
+  {
+   "name": "haupt",
+   "label": "Hauptportfolio",
+   "value": 997.9003539574112,
+   "total": -0.002099646042588832,
+   "week": -0.0014649771820858248,
+   "day": -0.0014649771820858248,
+   "fees": 0.2711564834363268,
+   "trades": 3,
+   "dd": -0.0016108562042427277,
+   "npos": 3,
+   "selected": true
+  },
+  {
+   "name": "trend",
+   "label": "Trend (MA-Crossover + Filter)",
+   "value": 997.6088355736299,
+   "total": -0.002391164426370107,
+   "week": -0.0016293077511149168,
+   "day": -0.0016293077511149168,
+   "fees": 0.33300033300033294,
+   "trades": 3,
+   "dd": -0.0018454069171786047,
+   "npos": 3,
+   "selected": false
+  },
+  {
+   "name": "donchian",
+   "label": "Donchian-Breakout",
+   "value": 997.6088355736299,
+   "total": -0.002391164426370107,
+   "week": -0.0016293077511149168,
+   "day": -0.0016293077511149168,
+   "fees": 0.33300033300033294,
+   "trades": 3,
+   "dd": -0.0018454069171786047,
+   "npos": 3,
+   "selected": false
+  },
+  {
+   "name": "tsmom",
+   "label": "Zeitreihen-Momentum (w\u00f6chentlich)",
+   "value": 997.6088355736299,
+   "total": -0.002391164426370107,
+   "week": -0.0016293077511149168,
+   "day": -0.0016293077511149168,
+   "fees": 0.33300033300033294,
+   "trades": 3,
+   "dd": -0.0018454069171786047,
+   "npos": 3,
+   "selected": true
+  },
+  {
+   "name": "xsmom",
+   "label": "Momentum-Rotation (Top-K, w\u00f6chentlich)",
+   "value": 996.7548592418223,
+   "total": -0.0032451407581777225,
+   "week": -0.0023042138622713093,
+   "day": -0.0023042138622713093,
+   "fees": 0.39960039960039967,
+   "trades": 2,
+   "dd": -0.002518813785435947,
+   "npos": 2,
+   "selected": true
+  },
+  {
+   "name": "meanrev",
+   "label": "Mean-Reversion (Bollinger/RSI + Trendfilter)",
+   "value": 996.7548592418223,
+   "total": -0.0032451407581777225,
+   "week": -0.0023042138622713093,
+   "day": -0.0023042138622713093,
+   "fees": 0.39960039960039967,
+   "trades": 2,
+   "dd": -0.002518813785435947,
+   "npos": 2,
+   "selected": true
+  },
+  {
+   "name": "bench_btc",
+   "label": "Buy & Hold BTC (Vergleich)",
+   "value": 994.5234886376894,
+   "total": -0.005476511362310643,
+   "week": -0.003330782203316063,
+   "day": -0.003330782203316063,
+   "fees": 0.999000999000999,
+   "trades": 1,
+   "dd": -0.004107827438980527,
+   "npos": 1,
+   "selected": false
+  }
+ ],
+ "total_fees": 3.8317612678034667,
+ "total_trades": 24,
+ "last_cycles": {
+  "crypto": "2026-10-18T15:30:00",
+  "stocks": "2026-10-18T14:27:33",
+  "all": null
+ },
+ "memecoins_trending": [
+  {
+   "symbol": "BOOMER",
+   "name": "Boomer",
+   "change_24h": null,
+   "risk": "SEHR HOCH"
+  },
+  {
+   "symbol": "COVENANT",
+   "name": "Covenant x402",
+   "change_24h": null,
+   "risk": "SEHR HOCH"
+  },
+  {
+   "symbol": "CLAUDIA",
+   "name": "Claudia",
+   "change_24h": null,
+   "risk": "SEHR HOCH"
+  },
+  {
+   "symbol": "QTC",
+   "name": "Quantus",
+   "change_24h": -6.77404,
+   "risk": "HOCH"
+  },
+  {
+   "symbol": "BTC",
+   "name": "Bitcoin",
+   "change_24h": -0.39599,
+   "risk": "keine Warnzeichen"
+  },
+  {
+   "symbol": "PRL",
+   "name": "Pearl",
+   "change_24h": 17.90005,
+   "risk": "keine Warnzeichen"
+  },
+  {
+   "symbol": "NEAR",
+   "name": "NEAR Protocol",
+   "change_24h": -5.45181,
+   "risk": "keine Warnzeichen"
+  },
+  {
+   "symbol": "PENGU",
+   "name": "Pudgy Penguins",
+   "change_24h": -2.95604,
+   "risk": "keine Warnzeichen"
+  },
+  {
+   "symbol": "LIT",
+   "name": "Lighter",
+   "change_24h": -6.17347,
+   "risk": "keine Warnzeichen"
+  },
+  {
+   "symbol": "SUI",
+   "name": "Sui",
+   "change_24h": -2.90374,
+   "risk": "keine Warnzeichen"
+  }
+ ],
+ "selected_strategies": [
+  "tsmom",
+  "xsmom",
+  "voltrend",
+  "meanrev",
+  "dualmom",
+  "ml"
+ ],
+ "configs_tried": 36
+}
