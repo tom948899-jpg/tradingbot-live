@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-24T19:38:39+00:00",
- "updated_berlin": "24.10.2026, 21:38 Uhr",
+ "updated_utc": "2026-10-24T19:51:22+00:00",
+ "updated_berlin": "24.10.2026, 21:51 Uhr",
  "play_money": true,
  "hauptportfolio": {
   "value": 994.194816265335,
@@ -54,17 +54,17 @@
   {
    "name": "cryptotrend",
    "label": "Krypto-Trend mit BTC-Regimefilter (neu)",
-   "value": 998.6565861540034,
-   "total": -0.001343413845996566,
-   "week": -0.0013678803329284506,
-   "day": -0.0026592055561064365,
+   "value": 998.584012268985,
+   "total": -0.0014159877310150337,
+   "week": -0.0014404524399301843,
+   "day": -0.0027316838205505567,
    "fees": 0.19980019980019983,
    "trades": 1,
    "dd": -0.01208884704770119,
    "npos": 1,
    "selected": false,
    "worst_day": -0.008177107983905252,
-   "vol_d": 0.004224571139553643,
+   "vol_d": 0.004231906054006733,
    "ndays": 7
   },
   {
@@ -86,113 +86,113 @@
   {
    "name": "ml",
    "label": "ML v2 (Gradient Boosting, Walk-Forward)",
-   "value": 997.0555281356438,
-   "total": -0.002944471864356202,
-   "week": -0.0004053014110003694,
-   "day": -0.006140525163535249,
+   "value": 996.8799933825251,
+   "total": -0.003120006617474913,
+   "week": -0.0005812831930418483,
+   "day": -0.0063154972414458665,
    "fees": 0.19980019980019983,
    "trades": 1,
    "dd": -0.017614421696584448,
    "npos": 1,
    "selected": false,
    "worst_day": -0.0090576452378901,
-   "vol_d": 0.005535139175172776,
+   "vol_d": 0.005566023693766929,
    "ndays": 7
   },
   {
    "name": "edgegate",
    "label": "Mindest-Vorteil 3x Kosten (tsmom) (Tom-Idee)",
-   "value": 996.5129829499319,
-   "total": -0.003487017050068042,
-   "week": -0.0016491529757811652,
-   "day": -0.008050480813087457,
+   "value": 996.3320059065452,
+   "total": -0.0036679940934548627,
+   "week": -0.0018304637942536672,
+   "day": -0.008230629084352237,
    "fees": 0.33300033300033294,
    "trades": 3,
    "dd": -0.025976564053666995,
    "npos": 3,
    "selected": false,
    "worst_day": -0.014584295255352986,
-   "vol_d": 0.008162709853719297,
+   "vol_d": 0.008191227387321767,
    "ndays": 7
   },
   {
    "name": "meta",
    "label": "Meta-Allokator (Ensemble)",
-   "value": 996.4596542502524,
-   "total": -0.0035403457497475976,
-   "week": -0.0006693687793137837,
-   "day": -0.0056058019385410995,
+   "value": 996.3296841596573,
+   "total": -0.0036703158403427194,
+   "week": -0.0007997133367879661,
+   "day": -0.005735502627834399,
    "fees": 0.43192711971283754,
    "trades": 6,
    "dd": -0.022378145945234906,
    "npos": 3,
    "selected": false,
    "worst_day": -0.013892089176055222,
-   "vol_d": 0.007457678342287028,
+   "vol_d": 0.007472934282910725,
    "ndays": 7
   },
   {
    "name": "riskparity",
    "label": "Risiko-Parit\u00e4t (ohne Filter) (neu)",
-   "value": 995.6302786499996,
-   "total": -0.004369721350000466,
-   "week": -0.004377387644115549,
-   "day": -0.0014984302359870583,
+   "value": 995.6074284226725,
+   "total": -0.004392571577327531,
+   "week": -0.004400237695497244,
+   "day": -0.0015213463609230482,
    "fees": 3.0629080279260297,
    "trades": 4,
    "dd": -0.007483938771550291,
    "npos": 4,
    "selected": false,
    "worst_day": -0.003521372885428753,
-   "vol_d": 0.0025640110302503796,
+   "vol_d": 0.002565358781363286,
    "ndays": 7
   },
   {
    "name": "trend",
    "label": "Trend (MA-Crossover + Filter)",
-   "value": 994.9872304040533,
-   "total": -0.005012769595946653,
-   "week": -0.001644618043841195,
-   "day": -0.008022726237723599,
+   "value": 994.8071567916634,
+   "total": -0.005192843208336573,
+   "week": -0.0018253012270864621,
+   "day": -0.00820225510566952,
    "fees": 0.33300033300033294,
    "trades": 3,
    "dd": -0.025892720574095418,
    "npos": 3,
    "selected": false,
    "worst_day": -0.014539124444670759,
-   "vol_d": 0.008179741948537786,
+   "vol_d": 0.008207203241856368,
    "ndays": 7
   },
   {
    "name": "donchian",
    "label": "Donchian-Breakout",
-   "value": 994.9872304040533,
-   "total": -0.005012769595946653,
-   "week": -0.001644618043841195,
-   "day": -0.008022726237723599,
+   "value": 994.8071567916634,
+   "total": -0.005192843208336573,
+   "week": -0.0018253012270864621,
+   "day": -0.00820225510566952,
    "fees": 0.33300033300033294,
    "trades": 3,
    "dd": -0.025892720574095418,
    "npos": 3,
    "selected": false,
    "worst_day": -0.014539124444670759,
-   "vol_d": 0.008179741948537786,
+   "vol_d": 0.008207203241856368,
    "ndays": 7
   },
   {
    "name": "tsmom",
    "label": "Zeitreihen-Momentum (w\u00f6chentlich)",
-   "value": 994.9872304040533,
-   "total": -0.005012769595946653,
-   "week": -0.001644618043841195,
-   "day": -0.008022726237723599,
+   "value": 994.8071567916634,
+   "total": -0.005192843208336573,
+   "week": -0.0018253012270864621,
+   "day": -0.00820225510566952,
    "fees": 0.33300033300033294,
    "trades": 3,
    "dd": -0.025892720574095418,
    "npos": 3,
    "selected": false,
    "worst_day": -0.014539124444670759,
-   "vol_d": 0.008179741948537786,
+   "vol_d": 0.008207203241856368,
    "ndays": 7
   },
   {
@@ -214,33 +214,33 @@
   {
    "name": "coresat",
    "label": "Kern-Satellit 60 % MSCI World + Krypto-Trend (neu)",
-   "value": 993.2077444178635,
-   "total": -0.006792255582136475,
-   "week": -0.006030775759445772,
-   "day": -0.003356326517806596,
+   "value": 993.1480608149977,
+   "total": -0.006851939185002265,
+   "week": -0.00609050512097542,
+   "day": -0.0034162165917022147,
    "fees": 1.15984015984016,
    "trades": 3,
    "dd": -0.018139471149573372,
    "npos": 3,
    "selected": false,
    "worst_day": -0.012814558148614208,
-   "vol_d": 0.006157165054574863,
+   "vol_d": 0.006161176457433494,
    "ndays": 7
   },
   {
    "name": "xsmom",
    "label": "Momentum-Rotation (Top-K, w\u00f6chentlich)",
-   "value": 992.9173924159742,
-   "total": -0.007082607584025791,
-   "week": -0.001595275377025529,
-   "day": -0.011774209524309076,
+   "value": 992.6656157138734,
+   "total": -0.0073343842861265385,
+   "week": -0.001848443516537901,
+   "day": -0.01202479656443689,
    "fees": 0.39960039960039967,
    "trades": 2,
    "dd": -0.03461995019320374,
    "npos": 2,
    "selected": false,
    "worst_day": -0.017998711034025727,
-   "vol_d": 0.010756674212190512,
+   "vol_d": 0.010799497070202092,
    "ndays": 7
   },
   {
@@ -262,33 +262,33 @@
   {
    "name": "guard",
    "label": "Schutzregeln 2-Signal + 5 %-Risiko (donchian) (Tom-Idee)",
-   "value": 992.1344620029397,
-   "total": -0.007865537997060246,
-   "week": -0.006676529803234743,
-   "day": -0.004970599459126701,
+   "value": 992.041206373462,
+   "total": -0.007958793626537952,
+   "week": -0.006769897193478536,
+   "day": -0.005064127198208368,
    "fees": 4.2497502497502495,
    "trades": 6,
    "dd": -0.023434913236878074,
    "npos": 6,
    "selected": false,
    "worst_day": -0.010803485439255467,
-   "vol_d": 0.005820191591291609,
+   "vol_d": 0.005830830704919708,
    "ndays": 7
   },
   {
    "name": "voltrend",
    "label": "Trend mit Volatilit\u00e4ts-Ziel",
-   "value": 990.8530856119551,
-   "total": -0.009146914388044936,
-   "week": -0.006365831714430503,
-   "day": -0.007047813465711372,
+   "value": 990.7071078789953,
+   "total": -0.009292892121004703,
+   "week": -0.0065122191712431166,
+   "day": -0.007194100449354535,
    "fees": 2.2949375686166285,
    "trades": 5,
    "dd": -0.02697492466097806,
    "npos": 5,
    "selected": false,
    "worst_day": -0.01641845756165461,
-   "vol_d": 0.008313169126289904,
+   "vol_d": 0.008330524339986442,
    "ndays": 7
   },
   {
@@ -326,17 +326,17 @@
   {
    "name": "bench_btc",
    "label": "Buy & Hold BTC (Vergleich)",
-   "value": 990.1171814320122,
-   "total": -0.009882818567987783,
-   "week": -0.006838879048383206,
-   "day": -0.013226205538382607,
+   "value": 989.7554685290016,
+   "total": -0.010244531470998353,
+   "week": -0.0072017039735068344,
+   "day": -0.01358669702414117,
    "fees": 0.999000999000999,
    "trades": 1,
    "dd": -0.0584323390251531,
    "npos": 1,
    "selected": false,
    "worst_day": -0.03952452654513339,
-   "vol_d": 0.020570006133685665,
+   "vol_d": 0.02060634981974664,
    "ndays": 7
   },
   {
@@ -359,7 +359,7 @@
  "total_fees": 24.71837211138308,
  "total_trades": 61,
  "last_cycles": {
-  "crypto": "2026-10-24T19:37:20",
+  "crypto": "2026-10-24T19:51:07",
   "stocks": "2026-10-23T23:05:00",
   "all": null
  },
@@ -367,61 +367,61 @@
   {
    "symbol": "UHI",
    "name": "Universal High Income",
-   "change_24h": 9.64612,
+   "change_24h": -5.11227,
    "risk": "HOCH"
-  },
-  {
-   "symbol": "HYPE",
-   "name": "Hyperliquid",
-   "change_24h": -1.76759,
-   "risk": "keine Warnzeichen"
   },
   {
    "symbol": "BSC",
    "name": "Binance Super CZ",
-   "change_24h": 31.30324,
+   "change_24h": 46.78707,
    "risk": "SEHR HOCH"
   },
   {
    "symbol": "DACITY",
    "name": "Dacity Coin",
-   "change_24h": 21.97736,
-   "risk": "HOCH"
+   "change_24h": 39.54295,
+   "risk": "SEHR HOCH"
+  },
+  {
+   "symbol": "HYPE",
+   "name": "Hyperliquid",
+   "change_24h": -1.64083,
+   "risk": "keine Warnzeichen"
   },
   {
    "symbol": "PENGU",
    "name": "Pudgy Penguins",
-   "change_24h": -4.61407,
+   "change_24h": -5.00937,
    "risk": "keine Warnzeichen"
   },
   {
    "symbol": "USDT",
    "name": "Tether",
-   "change_24h": -0.09044,
+   "change_24h": -0.08476,
+   "risk": "keine Warnzeichen"
+  },
+  {
+   "symbol": "PEARL",
+   "name": "Pearl",
+   "change_24h": -8.8424,
    "risk": "keine Warnzeichen"
   },
   {
    "symbol": "BTC",
    "name": "Bitcoin",
-   "change_24h": -0.98466,
-   "risk": "keine Warnzeichen"
-  },
-  {
-   "symbol": "SOL",
-   "name": "Solana",
-   "change_24h": -2.52707,
+   "change_24h": -1.07405,
    "risk": "keine Warnzeichen"
   },
   {
    "symbol": "QTC",
    "name": "Quantus",
-   "change_24h": -12.26382,
+   "change_24h": -12.27674,
    "risk": "HOCH"
   },
   {
-   "symbol": "ADA",
-   "name": "Cardano",
-   "change_24h": -3.18136,
+   "symbol": "SOL",
+   "name": "Solana",
+   "change_24h": -2.58273,
    "risk": "keine Warnzeichen"
   }
  ],
@@ -432,39 +432,39 @@
  "lab": {
   "active": 18,
   "ever": 53,
-  "trades_total": 212,
-  "trades_24h": 16,
+  "trades_total": 213,
+  "trades_24h": 1,
   "backfill_trades": 91,
   "top": [
    {
-    "id": "L034",
-    "family": "tsmom",
-    "ret": 0.007021200000000061,
-    "trades": 3
+    "id": "L051",
+    "family": "satrend",
+    "ret": 9.0,
+    "trades": 0
    },
    {
-    "id": "L026",
-    "family": "tsmom",
-    "ret": 0.006421599999999916,
-    "trades": 3
+    "id": "L052",
+    "family": "voltgtw",
+    "ret": 9.0,
+    "trades": 0
    },
    {
-    "id": "L028",
-    "family": "tsmom",
-    "ret": 0.006421599999999916,
-    "trades": 3
+    "id": "L053",
+    "family": "goldmix",
+    "ret": 9.0,
+    "trades": 0
    },
    {
-    "id": "L022",
-    "family": "cryptotrend",
-    "ret": 0.005541800000000041,
-    "trades": 2
+    "id": "L050",
+    "family": "btctiny",
+    "ret": 8.998709000000002,
+    "trades": 1
    },
    {
-    "id": "L030",
-    "family": "voltrend",
-    "ret": 0.005135600000000018,
-    "trades": 3
+    "id": "L025",
+    "family": "kelly",
+    "ret": 0.0,
+    "trades": 0
    }
   ],
   "promoted": [],
@@ -591,9 +591,9 @@
   "meme_lab_trades": 0,
   "copy_trading": {
    "copy_all": {
-    "value": 980.8713,
-    "trades": 5,
-    "positions": 3
+    "value": 982.2602,
+    "trades": 6,
+    "positions": 4
    },
    "copy_consensus": {
     "value": 1000.0,
@@ -601,8 +601,8 @@
     "positions": 0
    },
    "trend_momentum": {
-    "value": 933.3515,
-    "trades": 46,
+    "value": 930.0722,
+    "trades": 48,
     "positions": 2
    }
   },
@@ -684,26 +684,26 @@
  },
  "data_freshness": {
   "ok": true,
-  "checked": 17,
+  "checked": 21,
   "stale": [],
   "substituted": {}
  },
  "watcher": {
   "line": "\u2139\ufe0f W\u00e4chter (24 h: 1 Info): \ud83d\udcf0 BBC Business: White House lifts tariffs on some Canadian goods as midterm elections loom [tariffs]",
-  "last_run": "2026-10-24T17:48:38+00:00",
+  "last_run": "2026-10-24T19:51:18+00:00",
   "active": [],
   "alerts_total": 4
  },
  "kol_lab": {
-  "observed_swaps": 138,
-  "median_lag_min": 16.4,
-  "median_premium": -0.6123022645028623,
+  "observed_swaps": 195,
+  "median_lag_min": 5.3,
+  "median_premium": -0.6932369092554802,
   "books": {
    "kol_fast": {
-    "value": 1014.0519765104128,
+    "value": 996.3041167778146,
     "buys": 5,
-    "sells": 4,
-    "open": 1
+    "sells": 5,
+    "open": 0
    },
    "kol_holding": {
     "value": 1000.0,
@@ -719,13 +719,13 @@
    },
    {
     "name": "Cupsey",
-    "coverage": 0.7136
+    "coverage": 0.6674
    }
   ]
  },
  "bot_running": true,
  "health": {
   "level": "OK",
-  "time": "2026-10-24T18:03:18+00:00"
+  "time": "2026-10-24T19:51:17+00:00"
  }
 }
