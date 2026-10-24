@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-24T06:45:40+00:00",
- "updated_berlin": "24.10.2026, 08:45 Uhr",
+ "updated_utc": "2026-10-24T06:51:57+00:00",
+ "updated_berlin": "24.10.2026, 08:51 Uhr",
  "play_money": true,
  "hauptportfolio": {
   "value": 994.0034360818486,
@@ -750,7 +750,7 @@
    },
    {
     "name": "Cupsey",
-    "coverage": 0.0447
+    "coverage": 0.0191
    }
   ]
  },
