@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-24T16:38:09+00:00",
- "updated_berlin": "24.10.2026, 18:38 Uhr",
+ "updated_utc": "2026-10-24T17:47:47+00:00",
+ "updated_berlin": "24.10.2026, 19:47 Uhr",
  "play_money": true,
  "hauptportfolio": {
   "value": 994.194816265335,
@@ -471,55 +471,55 @@
   "decisions": [
    {
     "id": "L020",
-    "day": 5.8,
+    "day": 5.9,
     "decide_in": 55,
     "status": "l\u00e4uft \u2013 Entscheidung in 55 Tagen"
    },
    {
     "id": "L022",
-    "day": 5.8,
+    "day": 5.9,
     "decide_in": 55,
     "status": "l\u00e4uft \u2013 Entscheidung in 55 Tagen"
    },
    {
     "id": "L025",
-    "day": 5.8,
+    "day": 5.9,
     "decide_in": 55,
     "status": "l\u00e4uft \u2013 Entscheidung in 55 Tagen"
    },
    {
     "id": "L026",
-    "day": 5.8,
+    "day": 5.9,
     "decide_in": 55,
     "status": "l\u00e4uft \u2013 Entscheidung in 55 Tagen"
    },
    {
     "id": "L028",
-    "day": 5.8,
+    "day": 5.9,
     "decide_in": 55,
     "status": "l\u00e4uft \u2013 Entscheidung in 55 Tagen"
    },
    {
     "id": "L030",
-    "day": 5.8,
+    "day": 5.9,
     "decide_in": 55,
     "status": "l\u00e4uft \u2013 Entscheidung in 55 Tagen"
    },
    {
     "id": "L034",
-    "day": 5.8,
+    "day": 5.9,
     "decide_in": 55,
     "status": "l\u00e4uft \u2013 Entscheidung in 55 Tagen"
    },
    {
     "id": "L036",
-    "day": 5.5,
+    "day": 5.6,
     "decide_in": 55,
     "status": "l\u00e4uft \u2013 Entscheidung in 56 Tagen"
    },
    {
     "id": "L037",
-    "day": 5.3,
+    "day": 5.4,
     "decide_in": 55,
     "status": "l\u00e4uft \u2013 Entscheidung in 56 Tagen"
    },
@@ -531,49 +531,49 @@
    },
    {
     "id": "L046",
-    "day": 2.2,
+    "day": 2.3,
     "decide_in": 58,
     "status": "l\u00e4uft \u2013 Entscheidung in 59 Tagen"
    },
    {
     "id": "L047",
     "day": 2.0,
-    "decide_in": 59,
+    "decide_in": 58,
     "status": "l\u00e4uft \u2013 Entscheidung in 59 Tagen"
    },
    {
     "id": "L048",
     "day": 2.0,
-    "decide_in": 59,
+    "decide_in": 58,
     "status": "l\u00e4uft \u2013 Entscheidung in 59 Tagen"
    },
    {
     "id": "L049",
     "day": 2.0,
-    "decide_in": 59,
+    "decide_in": 58,
     "status": "l\u00e4uft \u2013 Entscheidung in 59 Tagen"
    },
    {
     "id": "L050",
-    "day": 0.9,
+    "day": 1.0,
     "decide_in": 60,
     "status": "l\u00e4uft (Langsam-Pfad) \u2013 Entscheidung in 365 Tagen"
    },
    {
     "id": "L051",
-    "day": 0.9,
+    "day": 1.0,
     "decide_in": 60,
     "status": "l\u00e4uft (Langsam-Pfad) \u2013 Entscheidung in 365 Tagen"
    },
    {
     "id": "L052",
-    "day": 0.9,
+    "day": 1.0,
     "decide_in": 60,
     "status": "l\u00e4uft (Langsam-Pfad) \u2013 Entscheidung in 365 Tagen"
    },
    {
     "id": "L053",
-    "day": 0.9,
+    "day": 1.0,
     "decide_in": 60,
     "status": "l\u00e4uft (Langsam-Pfad) \u2013 Entscheidung in 365 Tagen"
    }
@@ -591,7 +591,7 @@
   "meme_lab_trades": 0,
   "copy_trading": {
    "copy_all": {
-    "value": 995.2963,
+    "value": 983.3534,
     "trades": 3,
     "positions": 3
    },
@@ -601,7 +601,7 @@
     "positions": 0
    },
    "trend_momentum": {
-    "value": 934.4641,
+    "value": 934.4651,
     "trades": 46,
     "positions": 2
    }
@@ -723,7 +723,7 @@
    }
   ]
  },
- "bot_running": true,
+ "bot_running": false,
  "health": {
   "level": "OK",
   "time": "2026-10-24T15:12:43+00:00"
