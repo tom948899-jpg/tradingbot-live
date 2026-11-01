@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-01T04:04:54+00:00",
- "updated_berlin": "01.11.2026, 05:04 Uhr",
+ "updated_utc": "2026-11-01T04:07:07+00:00",
+ "updated_berlin": "01.11.2026, 05:07 Uhr",
  "play_money": true,
  "hauptportfolio": {
   "value": 990.0605466891981,
@@ -473,61 +473,61 @@
     "id": "L020",
     "day": 13.3,
     "decide_in": 47,
-    "status": "l\u00e4uft \u2013 Entscheidung in 48 Tagen"
+    "status": "l\u00e4uft \u2013 Entscheidung in 47 Tagen"
    },
    {
     "id": "L025",
     "day": 13.3,
     "decide_in": 47,
-    "status": "l\u00e4uft \u2013 Entscheidung in 48 Tagen"
+    "status": "l\u00e4uft \u2013 Entscheidung in 47 Tagen"
    },
    {
     "id": "L028",
     "day": 13.3,
     "decide_in": 47,
-    "status": "l\u00e4uft \u2013 Entscheidung in 48 Tagen"
+    "status": "l\u00e4uft \u2013 Entscheidung in 47 Tagen"
    },
    {
     "id": "L030",
     "day": 13.3,
     "decide_in": 47,
-    "status": "l\u00e4uft \u2013 Entscheidung in 48 Tagen"
+    "status": "l\u00e4uft \u2013 Entscheidung in 47 Tagen"
    },
    {
     "id": "L047",
     "day": 9.5,
     "decide_in": 51,
-    "status": "l\u00e4uft \u2013 Entscheidung in 52 Tagen"
+    "status": "l\u00e4uft \u2013 Entscheidung in 51 Tagen"
    },
    {
     "id": "L048",
     "day": 9.5,
     "decide_in": 51,
-    "status": "l\u00e4uft \u2013 Entscheidung in 52 Tagen"
+    "status": "l\u00e4uft \u2013 Entscheidung in 51 Tagen"
    },
    {
     "id": "L049",
     "day": 9.5,
     "decide_in": 51,
-    "status": "l\u00e4uft \u2013 Entscheidung in 52 Tagen"
+    "status": "l\u00e4uft \u2013 Entscheidung in 51 Tagen"
    },
    {
     "id": "L051",
     "day": 8.4,
     "decide_in": 52,
-    "status": "l\u00e4uft (Langsam-Pfad) \u2013 Entscheidung in 358 Tagen"
+    "status": "l\u00e4uft (Langsam-Pfad) \u2013 Entscheidung in 357 Tagen"
    },
    {
     "id": "L052",
     "day": 8.4,
     "decide_in": 52,
-    "status": "l\u00e4uft (Langsam-Pfad) \u2013 Entscheidung in 358 Tagen"
+    "status": "l\u00e4uft (Langsam-Pfad) \u2013 Entscheidung in 357 Tagen"
    }
   ],
   "meme_lab_trades": 0,
   "last_review": {
-   "time": "2026-10-31T04:09:45",
-   "kind": "daily",
+   "time": "2026-11-01T04:07:00",
+   "kind": "weekly",
    "errors": 0,
    "warnings": 0
   }
@@ -561,42 +561,42 @@
  },
  "calibration": {
   "ml": {
-   "n": 2521,
-   "brier": 0.2653,
-   "brier_base": 0.2427,
-   "skill": -0.0932,
-   "base_rate": 0.415,
-   "ece": 0.1189,
+   "n": 2515,
+   "brier": 0.2664,
+   "brier_base": 0.2429,
+   "skill": -0.0969,
+   "base_rate": 0.416,
+   "ece": 0.1293,
    "bins": [
     {
-     "p": 0.289,
-     "hit": 0.442,
-     "n": 504
-    },
-    {
-     "p": 0.393,
-     "hit": 0.371,
-     "n": 504
-    },
-    {
-     "p": 0.46,
-     "hit": 0.388,
-     "n": 505
-    },
-    {
-     "p": 0.529,
-     "hit": 0.473,
+     "p": 0.287,
+     "hit": 0.471,
      "n": 503
     },
     {
-     "p": 0.69,
-     "hit": 0.398,
-     "n": 505
+     "p": 0.396,
+     "hit": 0.371,
+     "n": 502
+    },
+    {
+     "p": 0.459,
+     "hit": 0.345,
+     "n": 504
+    },
+    {
+     "p": 0.526,
+     "hit": 0.495,
+     "n": 503
+    },
+    {
+     "p": 0.687,
+     "hit": 0.396,
+     "n": 503
     }
    ],
    "horizon": 10,
-   "from": "2025-10-30",
-   "to": "2026-10-20"
+   "from": "2025-10-31",
+   "to": "2026-10-21"
   },
   "edge": {
    "n": 78,
@@ -664,7 +664,7 @@
  },
  "watcher": {
   "line": "\ud83d\udd15 W\u00e4chter: ruhig \u2013 keine Alarme in den letzten 24 h.",
-  "last_run": "2026-11-01T02:05:39+00:00",
+  "last_run": "2026-11-01T04:04:58+00:00",
   "active": [],
   "alerts_total": 18
  },
@@ -674,7 +674,7 @@
   "median_premium": -0.6719352411964972,
   "books": {
    "kol_fast": {
-    "value": 901.5598859785542,
+    "value": 901.3352255034619,
     "buys": 30,
     "sells": 26,
     "open": 4
@@ -689,11 +689,11 @@
   "wallets": [
    {
     "name": "Orangie",
-    "coverage": 0.6864
+    "coverage": 1.0
    },
    {
     "name": "Cupsey",
-    "coverage": 0.8338
+    "coverage": 0.8344
    }
   ]
  },
