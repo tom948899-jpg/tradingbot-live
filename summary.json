@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-10T12:30:26+00:00",
- "updated_berlin": "10.11.2026, 13:30 Uhr",
+ "updated_utc": "2026-11-10T12:45:17+00:00",
+ "updated_berlin": "10.11.2026, 13:45 Uhr",
  "play_money": true,
  "hauptportfolio": {
   "value": 980.3563912635291,
@@ -134,17 +134,17 @@
   {
    "name": "riskparity",
    "label": "Risiko-Parit\u00e4t (ohne Filter) (neu)",
-   "value": 992.1713484623592,
-   "total": -0.007828651537640785,
-   "week": 0.010189183762872256,
-   "day": 0.003583903900737706,
+   "value": 992.1231854121932,
+   "total": -0.007876814587806868,
+   "week": 0.01014014607153979,
+   "day": 0.0035351868500141936,
    "fees": 3.0629080279260297,
    "trades": 4,
    "dd": -0.027423046913607196,
    "npos": 4,
    "selected": false,
    "worst_day": -0.013944448974056223,
-   "vol_d": 0.004611436585219896,
+   "vol_d": 0.004609657693802318,
    "ndays": 24
   },
   {
@@ -230,17 +230,17 @@
   {
    "name": "meta",
    "label": "Meta-Allokator (Ensemble)",
-   "value": 978.5950539141476,
-   "total": -0.021404946085852417,
-   "week": 0.007372772647650239,
-   "day": 0.0015267105475413878,
+   "value": 978.5765442516454,
+   "total": -0.02142345574835458,
+   "week": 0.007353718668211995,
+   "day": 0.0015077671436023454,
    "fees": 2.6719473421862094,
    "trades": 14,
    "dd": -0.04600212598195719,
    "npos": 3,
    "selected": false,
    "worst_day": -0.013892089176055222,
-   "vol_d": 0.00532246895784907,
+   "vol_d": 0.005322100810289271,
    "ndays": 24
   },
   {
@@ -294,17 +294,17 @@
   {
    "name": "ml",
    "label": "ML v2 (Gradient Boosting, Walk-Forward)",
-   "value": 966.9103653702681,
-   "total": -0.03308963462973191,
-   "week": -0.017745942218533428,
-   "day": -0.0035557237939787267,
+   "value": 966.5868402050878,
+   "total": -0.03341315979491222,
+   "week": -0.018074601334904572,
+   "day": -0.003889130912775207,
    "fees": 1.0611242391728652,
    "trades": 6,
    "dd": -0.04498211933998986,
    "npos": 2,
    "selected": false,
    "worst_day": -0.014240854971423134,
-   "vol_d": 0.005431469284513291,
+   "vol_d": 0.005437735594141262,
    "ndays": 24
   },
   {
@@ -342,72 +342,72 @@
   {
    "name": "trend",
    "label": "Trend (MA-Crossover + Filter)",
-   "value": 960.3936044966597,
-   "total": -0.03960639550334033,
-   "week": -0.009963208923317812,
-   "day": 0.002571904788293722,
+   "value": 960.2344894841499,
+   "total": -0.03976551051585009,
+   "week": -0.010127235126386802,
+   "day": 0.0024058018067396603,
    "fees": 4.770944765026366,
    "trades": 13,
    "dd": -0.057768962120269385,
    "npos": 5,
    "selected": false,
    "worst_day": -0.020255393833452207,
-   "vol_d": 0.00793311043938478,
+   "vol_d": 0.007929365606848465,
    "ndays": 24
   },
   {
    "name": "tsmom",
    "label": "Zeitreihen-Momentum (w\u00f6chentlich)",
-   "value": 953.3687252042075,
-   "total": -0.04663127479579243,
-   "week": -0.015908123221131554,
-   "day": -0.0035531850248303742,
+   "value": 953.0499533245918,
+   "total": -0.04695004667540825,
+   "week": -0.016237167806906316,
+   "day": -0.0038863606532617556,
    "fees": 0.5735486076412966,
    "trades": 7,
    "dd": -0.06275654112551765,
    "npos": 2,
    "selected": false,
    "worst_day": -0.022754024143351814,
-   "vol_d": 0.00823691283037982,
+   "vol_d": 0.008240059370063746,
    "ndays": 24
   },
   {
    "name": "xsmom",
    "label": "Momentum-Rotation (Top-K, w\u00f6chentlich)",
-   "value": 935.8062961067579,
-   "total": -0.06419370389324208,
-   "week": -0.019706001660603656,
-   "day": -0.004400380165042073,
+   "value": 935.4171046256978,
+   "total": -0.06458289537430217,
+   "week": -0.02011369508463312,
+   "day": -0.00481443902764922,
    "fees": 1.1223100848580165,
    "trades": 6,
    "dd": -0.08502516366459978,
    "npos": 2,
    "selected": false,
    "worst_day": -0.034314880773248624,
-   "vol_d": 0.011533693618107181,
+   "vol_d": 0.011536723801303817,
    "ndays": 24
   },
   {
    "name": "bench_btc",
    "label": "Buy & Hold BTC (Vergleich)",
-   "value": 911.8336592269716,
-   "total": -0.08816634077302843,
-   "week": -0.020661308219555807,
-   "day": -0.008311841864997005,
+   "value": 911.0712512017037,
+   "total": -0.08892874879829626,
+   "week": -0.02148015897211708,
+   "day": -0.009141018330106054,
    "fees": 0.999000999000999,
    "trades": 1,
    "dd": -0.12494912667091185,
    "npos": 1,
    "selected": false,
    "worst_day": -0.052667277033101034,
-   "vol_d": 0.019292962870238753,
+   "vol_d": 0.01930256665214842,
    "ndays": 24
   }
  ],
  "total_fees": 58.53175357298575,
  "total_trades": 137,
  "last_cycles": {
-  "crypto": "2026-11-10T12:30:00",
+  "crypto": "2026-11-10T12:45:00",
   "stocks": "2026-11-10T12:05:00",
   "all": null
  },
@@ -415,62 +415,62 @@
   {
    "symbol": "DACITY",
    "name": "Dacity Coin",
-   "change_24h": -3.90498,
+   "change_24h": 4.96294,
    "risk": "HOCH"
-  },
-  {
-   "symbol": "PENGU",
-   "name": "Pudgy Penguins",
-   "change_24h": 0.19961,
-   "risk": "keine Warnzeichen"
   },
   {
    "symbol": "BTC",
    "name": "Bitcoin",
-   "change_24h": -0.91461,
+   "change_24h": -1.04501,
+   "risk": "keine Warnzeichen"
+  },
+  {
+   "symbol": "PENGU",
+   "name": "Pudgy Penguins",
+   "change_24h": -0.17729,
    "risk": "keine Warnzeichen"
   },
   {
    "symbol": "AVAX",
    "name": "Avalanche",
-   "change_24h": 2.47255,
+   "change_24h": -1.09589,
+   "risk": "keine Warnzeichen"
+  },
+  {
+   "symbol": "HYPE",
+   "name": "Hyperliquid",
+   "change_24h": -0.3822,
    "risk": "keine Warnzeichen"
   },
   {
    "symbol": "SI",
    "name": "Super Inu",
-   "change_24h": 144.04793,
+   "change_24h": 153.95445,
    "risk": "SEHR HOCH"
   },
   {
-   "symbol": "HYPE",
-   "name": "Hyperliquid",
-   "change_24h": -0.30108,
-   "risk": "keine Warnzeichen"
-  },
-  {
-   "symbol": "AERO",
-   "name": "Aero",
-   "change_24h": -3.07869,
+   "symbol": "KNTQ",
+   "name": "Kinetiq",
+   "change_24h": 0.62565,
    "risk": "keine Warnzeichen"
   },
   {
    "symbol": "CYBER",
    "name": "CYBER",
-   "change_24h": 17.96207,
+   "change_24h": 12.98425,
    "risk": "SEHR HOCH"
   },
   {
-   "symbol": "SOL",
-   "name": "Solana",
-   "change_24h": -2.53968,
+   "symbol": "AERO",
+   "name": "Aero",
+   "change_24h": -3.36149,
    "risk": "keine Warnzeichen"
   },
   {
-   "symbol": "ONE",
-   "name": "Harmony",
-   "change_24h": 22.09239,
-   "risk": "SEHR HOCH"
+   "symbol": "NEAR",
+   "name": "NEAR Protocol",
+   "change_24h": 1.44638,
+   "risk": "keine Warnzeichen"
   }
  ],
  "selected_strategies": [
@@ -479,7 +479,7 @@
  "configs_tried": 95,
  "lab": {
   "active": 40,
-  "ever": 86,
+  "ever": 89,
   "trades_total": 280,
   "trades_24h": 14,
   "backfill_trades": 91,
@@ -522,24 +522,6 @@
     "day": 22.7,
     "decide_in": 38,
     "status": "l\u00e4uft \u2013 Entscheidung in 38 Tagen"
-   },
-   {
-    "id": "L025",
-    "day": 22.7,
-    "decide_in": 38,
-    "status": "l\u00e4uft \u2013 Entscheidung in 38 Tagen"
-   },
-   {
-    "id": "L047",
-    "day": 18.8,
-    "decide_in": 42,
-    "status": "l\u00e4uft \u2013 Entscheidung in 42 Tagen"
-   },
-   {
-    "id": "L048",
-    "day": 18.8,
-    "decide_in": 42,
-    "status": "l\u00e4uft \u2013 Entscheidung in 42 Tagen"
    },
    {
     "id": "L049",
@@ -591,73 +573,73 @@
    },
    {
     "id": "L063",
-    "day": 3.3,
+    "day": 3.4,
     "decide_in": 57,
     "status": "l\u00e4uft \u2013 Entscheidung in 57 Tagen"
    },
    {
     "id": "L064",
-    "day": 3.3,
+    "day": 3.4,
     "decide_in": 57,
     "status": "l\u00e4uft \u2013 Entscheidung in 57 Tagen"
    },
    {
     "id": "L065",
-    "day": 3.3,
+    "day": 3.4,
     "decide_in": 57,
     "status": "l\u00e4uft \u2013 Entscheidung in 57 Tagen"
    },
    {
     "id": "L066",
-    "day": 2.3,
+    "day": 2.4,
     "decide_in": 58,
     "status": "l\u00e4uft \u2013 Entscheidung in 58 Tagen"
    },
    {
     "id": "L067",
-    "day": 2.3,
+    "day": 2.4,
     "decide_in": 58,
     "status": "l\u00e4uft \u2013 Entscheidung in 58 Tagen"
    },
    {
     "id": "L068",
-    "day": 2.3,
+    "day": 2.4,
     "decide_in": 58,
     "status": "l\u00e4uft \u2013 Entscheidung in 58 Tagen"
    },
    {
     "id": "L069",
-    "day": 2.3,
+    "day": 2.4,
     "decide_in": 58,
     "status": "l\u00e4uft \u2013 Entscheidung in 58 Tagen"
    },
    {
     "id": "L072",
-    "day": 1.3,
+    "day": 1.4,
     "decide_in": 59,
     "status": "l\u00e4uft \u2013 Entscheidung in 59 Tagen"
    },
    {
     "id": "L073",
-    "day": 1.3,
+    "day": 1.4,
     "decide_in": 59,
     "status": "l\u00e4uft \u2013 Entscheidung in 59 Tagen"
    },
    {
     "id": "L074",
-    "day": 0.3,
+    "day": 0.4,
     "decide_in": 60,
     "status": "l\u00e4uft"
    },
    {
     "id": "L075",
-    "day": 0.3,
+    "day": 0.4,
     "decide_in": 60,
     "status": "l\u00e4uft"
    },
    {
     "id": "L076",
-    "day": 0.3,
+    "day": 0.4,
     "decide_in": 60,
     "status": "l\u00e4uft"
    },
@@ -714,6 +696,24 @@
     "day": 0.0,
     "decide_in": 60,
     "status": "l\u00e4uft"
+   },
+   {
+    "id": "L087",
+    "day": 0.0,
+    "decide_in": 60,
+    "status": "l\u00e4uft"
+   },
+   {
+    "id": "L088",
+    "day": 0.0,
+    "decide_in": 60,
+    "status": "l\u00e4uft"
+   },
+   {
+    "id": "L089",
+    "day": 0.0,
+    "decide_in": 60,
+    "status": "l\u00e4uft"
    }
   ],
   "meme_lab_trades": 5,
@@ -729,7 +729,7 @@
   "meme_lab_trades": 5,
   "copy_trading": {
    "copy_all": {
-    "value": 834.2147,
+    "value": 833.1779,
     "trades": 90,
     "positions": 10
    },
@@ -831,17 +831,17 @@
  },
  "watcher": {
   "line": "\u26a0\ufe0f W\u00e4chter (24 h: 1 Warnung, 4 Info): Datenquelle gest\u00f6rt: veraltet: SOL-USD, WIF-USD",
-  "last_run": "2026-11-10T10:36:29+00:00",
+  "last_run": "2026-11-10T12:35:02+00:00",
   "active": [],
   "alerts_total": 34
  },
  "kol_lab": {
-  "observed_swaps": 3516,
-  "median_lag_min": 2290.45,
-  "median_premium": -0.7165217596453886,
+  "observed_swaps": 3522,
+  "median_lag_min": 2305.45,
+  "median_premium": -0.7162809780657318,
   "books": {
    "kol_fast": {
-    "value": 794.2344321227536,
+    "value": 794.2222976304583,
     "buys": 40,
     "sells": 38,
     "open": 2
@@ -928,13 +928,13 @@
    "high": 270,
    "normal": 248,
    "copy": 270,
-   "polled_last": 6,
+   "polled_last": 7,
    "copy_only_high": true
   }
  },
  "bot_running": true,
  "health": {
   "level": "HINWEIS",
-  "time": "2026-11-10T12:05:12+00:00"
+  "time": "2026-11-10T12:37:07+00:00"
  }
 }
