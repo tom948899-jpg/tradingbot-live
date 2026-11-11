@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-11T11:21:09+00:00",
- "updated_berlin": "11.11.2026, 12:21 Uhr",
+ "updated_utc": "2026-11-11T11:30:15+00:00",
+ "updated_berlin": "11.11.2026, 12:30 Uhr",
  "play_money": true,
  "hauptportfolio": {
   "value": 987.798831442401,
@@ -166,17 +166,17 @@
   {
    "name": "riskparity",
    "label": "Risiko-Parit\u00e4t (ohne Filter) (neu)",
-   "value": 987.7780765217683,
-   "total": -0.0122219234782317,
-   "week": 0.005716129987844543,
-   "day": 0.00031391041570683065,
+   "value": 987.7356513967711,
+   "total": -0.012264348603228892,
+   "week": 0.005672934422422893,
+   "day": 0.0002709468759254374,
    "fees": 3.0629080279260297,
    "trades": 4,
    "dd": -0.027423046913607196,
    "npos": 4,
    "selected": false,
    "worst_day": -0.013944448974056223,
-   "vol_d": 0.0044458759827350385,
+   "vol_d": 0.0044455658795031945,
    "ndays": 25
   },
   {
@@ -198,17 +198,17 @@
   {
    "name": "meta",
    "label": "Meta-Allokator (Ensemble)",
-   "value": 978.5745822518211,
-   "total": -0.021425417748178965,
-   "week": 0.007351698971510112,
-   "day": 0.0013437369488051853,
+   "value": 978.5582777457194,
+   "total": -0.02144172225428065,
+   "week": 0.007334914995898778,
+   "day": 0.0013270530747653275,
    "fees": 2.6719473421862094,
    "trades": 14,
    "dd": -0.04600212598195719,
    "npos": 3,
    "selected": false,
    "worst_day": -0.013892089176055222,
-   "vol_d": 0.0052111167809822875,
+   "vol_d": 0.005210828167649205,
    "ndays": 25
   },
   {
@@ -278,17 +278,17 @@
   {
    "name": "ml",
    "label": "ML v2 (Gradient Boosting, Walk-Forward)",
-   "value": 966.651664226648,
-   "total": -0.033348335773352056,
-   "week": -0.018008748634902982,
-   "day": 0.0009618331747454079,
+   "value": 966.2903233635425,
+   "total": -0.03370967663645752,
+   "week": -0.018375823538367975,
+   "day": 0.0005876669408058088,
    "fees": 1.0611242391728652,
    "trades": 6,
    "dd": -0.04997048055521458,
    "npos": 2,
    "selected": false,
    "worst_day": -0.014240854971423134,
-   "vol_d": 0.00536480729698491,
+   "vol_d": 0.005358688724292455,
    "ndays": 25
   },
   {
@@ -342,72 +342,72 @@
   {
    "name": "trend",
    "label": "Trend (MA-Crossover + Filter)",
-   "value": 954.390120577842,
-   "total": -0.045609879422157995,
-   "week": -0.016151994361327637,
-   "day": 0.00016780082143919017,
+   "value": 954.2499617990395,
+   "total": -0.04575003820096046,
+   "week": -0.016296479233943617,
+   "day": 2.0919274220654316e-05,
    "fees": 4.770944765026366,
    "trades": 13,
    "dd": -0.06446661036930512,
    "npos": 5,
    "selected": false,
    "worst_day": -0.020255393833452207,
-   "vol_d": 0.007738629465875381,
+   "vol_d": 0.007737123944924193,
    "ndays": 25
   },
   {
    "name": "tsmom",
    "label": "Zeitreihen-Momentum (w\u00f6chentlich)",
-   "value": 942.3714273475623,
-   "total": -0.057628572652437704,
-   "week": -0.02725981874158634,
-   "day": -0.0018672899244405183,
+   "value": 942.2718131409208,
+   "total": -0.05772818685907921,
+   "week": -0.027362643104265727,
+   "day": -0.0019727984268756993,
    "fees": 3.698981440244035,
    "trades": 11,
    "dd": -0.0739194521483083,
    "npos": 4,
    "selected": false,
    "worst_day": -0.022754024143351814,
-   "vol_d": 0.008370109508247892,
+   "vol_d": 0.00836990508559828,
    "ndays": 25
   },
   {
    "name": "xsmom",
    "label": "Momentum-Rotation (Top-K, w\u00f6chentlich)",
-   "value": 934.1830687546818,
-   "total": -0.06581693124531818,
-   "week": -0.021406396323260468,
-   "day": -0.000322885129130146,
+   "value": 934.048555572529,
+   "total": -0.06595144442747092,
+   "week": -0.021547304186042004,
+   "day": -0.00046682881034654233,
    "fees": 1.2687803125899362,
    "trades": 7,
    "dd": -0.09085699312700646,
    "npos": 1,
    "selected": false,
    "worst_day": -0.034314880773248624,
-   "vol_d": 0.011313511078179284,
+   "vol_d": 0.01131232984587745,
    "ndays": 25
   },
   {
    "name": "bench_btc",
    "label": "Buy & Hold BTC (Vergleich)",
-   "value": 916.0999155950149,
-   "total": -0.08390008440498509,
-   "week": -0.016079211596996767,
-   "day": 0.0037944063138082296,
+   "value": 915.4283373693958,
+   "total": -0.08457166263060423,
+   "week": -0.016800508221935684,
+   "day": 0.003058540656795339,
    "fees": 0.999000999000999,
    "trades": 1,
    "dd": -0.13278946022881055,
    "npos": 1,
    "selected": false,
    "worst_day": -0.052667277033101034,
-   "vol_d": 0.018935191005544055,
+   "vol_d": 0.018924371079398716,
    "ndays": 25
   }
  ],
  "total_fees": 62.80365663332041,
  "total_trades": 143,
  "last_cycles": {
-  "crypto": "2026-11-11T11:21:00",
+  "crypto": "2026-11-11T11:30:00",
   "stocks": "2026-11-11T11:05:00",
   "all": null
  },
@@ -415,61 +415,61 @@
   {
    "symbol": "ZEC",
    "name": "Zcash",
-   "change_24h": -13.11398,
-   "risk": "keine Warnzeichen"
-  },
-  {
-   "symbol": "BTC",
-   "name": "Bitcoin",
-   "change_24h": 0.52503,
+   "change_24h": -13.1968,
    "risk": "keine Warnzeichen"
   },
   {
    "symbol": "PEARL",
    "name": "Pearl",
-   "change_24h": -12.41309,
+   "change_24h": -12.01435,
+   "risk": "keine Warnzeichen"
+  },
+  {
+   "symbol": "BTC",
+   "name": "Bitcoin",
+   "change_24h": 0.28987,
    "risk": "keine Warnzeichen"
   },
   {
    "symbol": "GRAM",
    "name": "Gram (prev. Toncoin)",
-   "change_24h": 10.21052,
-   "risk": "keine Warnzeichen"
-  },
-  {
-   "symbol": "HYPE",
-   "name": "Hyperliquid",
-   "change_24h": -0.51634,
-   "risk": "keine Warnzeichen"
-  },
-  {
-   "symbol": "ETH",
-   "name": "Ethereum",
-   "change_24h": -0.77133,
+   "change_24h": 10.31097,
    "risk": "keine Warnzeichen"
   },
   {
    "symbol": "UNI",
    "name": "Uniswap",
-   "change_24h": -6.21986,
+   "change_24h": -6.38238,
    "risk": "keine Warnzeichen"
   },
   {
-   "symbol": "SOL",
-   "name": "Solana",
-   "change_24h": 0.05025,
+   "symbol": "HYPE",
+   "name": "Hyperliquid",
+   "change_24h": -1.10461,
    "risk": "keine Warnzeichen"
   },
   {
    "symbol": "SUI",
    "name": "Sui",
-   "change_24h": 0.63777,
+   "change_24h": 0.39127,
+   "risk": "keine Warnzeichen"
+  },
+  {
+   "symbol": "TAO",
+   "name": "Bittensor",
+   "change_24h": 0.50031,
+   "risk": "keine Warnzeichen"
+  },
+  {
+   "symbol": "ETH",
+   "name": "Ethereum",
+   "change_24h": -1.14773,
    "risk": "keine Warnzeichen"
   },
   {
    "symbol": "LIT",
    "name": "Lighter",
-   "change_24h": 7.08929,
+   "change_24h": 6.68187,
    "risk": "keine Warnzeichen"
   }
  ],
@@ -493,25 +493,25 @@
    {
     "id": "L139",
     "family": "cryptoresearch",
-    "ret": 3.0192208000000003,
+    "ret": 3.0180336,
     "trades": 1
    },
    {
     "id": "L144",
     "family": "cryptoresearch",
-    "ret": 3.0192208000000003,
+    "ret": 3.0180336,
     "trades": 1
    },
    {
     "id": "L149",
     "family": "cryptoresearch",
-    "ret": 3.0192208000000003,
+    "ret": 3.0180336,
     "trades": 1
    },
    {
     "id": "L142",
     "family": "cryptoresearch",
-    "ret": 3.0160171999999994,
+    "ret": 3.015028,
     "trades": 1
    }
   ],
@@ -729,7 +729,7 @@
   "meme_lab_trades": 5,
   "copy_trading": {
    "copy_all": {
-    "value": 822.5776,
+    "value": 820.6665,
     "trades": 94,
     "positions": 6
    },
@@ -836,12 +836,12 @@
   "alerts_total": 35
  },
  "kol_lab": {
-  "observed_swaps": 5609,
-  "median_lag_min": 1665.9,
-  "median_premium": -0.6844970156231367,
+  "observed_swaps": 5796,
+  "median_lag_min": 1556.7,
+  "median_premium": -0.6832836605286211,
   "books": {
    "kol_fast": {
-    "value": 768.8068810950163,
+    "value": 766.1658583067373,
     "buys": 45,
     "sells": 41,
     "open": 4
@@ -875,6 +875,10 @@
     "coverage": 0.1879
    },
    {
+    "name": "SCHARO",
+    "coverage": 0.4603
+   },
+   {
     "name": "ratwizard",
     "coverage": 0.3052
    },
@@ -903,6 +907,10 @@
     "coverage": 0.2295
    },
    {
+    "name": "art",
+    "coverage": 0.5003
+   },
+   {
     "name": "washy lil bitch new",
     "coverage": 0.2023
    },
@@ -913,14 +921,6 @@
    {
     "name": "redwifbag",
     "coverage": 0.9554
-   },
-   {
-    "name": "ethan po...",
-    "coverage": 0.5685
-   },
-   {
-    "name": "daumen",
-    "coverage": 0.4223
    }
   ],
   "watch": {
