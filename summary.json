@@ -1,11 +1,11 @@
 {
- "updated_utc": "2026-11-11T10:15:10+00:00",
- "updated_berlin": "11.11.2026, 11:15 Uhr",
+ "updated_utc": "2026-11-11T10:30:19+00:00",
+ "updated_berlin": "11.11.2026, 11:30 Uhr",
  "play_money": true,
  "hauptportfolio": {
-  "value": 987.5428568913196,
-  "return_total": -0.012457143108680402,
-  "return_today": 0.009350892269698763,
+  "value": 987.1799263898926,
+  "return_total": -0.012820073610107396,
+  "return_today": 0.00897994712753003,
   "fees": 6.68232826666456,
   "members": [
    "aktiv_topf"
@@ -14,14 +14,14 @@
    "EUNL.DE": {
     "qty": 6.495545360680142,
     "entry": 130.52765863241132,
-    "price": 130.0,
+    "price": 129.94500732421875,
     "stop": null,
     "target": null
    },
    "ZPRV.DE": {
     "qty": 0.5721859063837071,
     "entry": 83.09301213836669,
-    "price": 84.55000305175781,
+    "price": 84.54000091552734,
     "stop": null,
     "target": null
    },
@@ -35,16 +35,16 @@
   }
  },
  "papier_200": {
-  "value": 203.4171997117341,
-  "return_total": 0.017085998558670434,
-  "return_today": 0.010493538712112782,
+  "value": 203.3311500493335,
+  "return_total": 0.016655750246667544,
+  "return_today": 0.010066079146316964,
   "fees": 1.0,
   "start": 200.0,
   "positions": {
    "EUNL.DE": {
     "qty": 1.5647476900902624,
     "entry": 127.17705305480956,
-    "price": 130.0,
+    "price": 129.94500732421875,
     "stop": null,
     "target": null
    }
@@ -54,33 +54,33 @@
   {
    "name": "meanrev",
    "label": "Mean-Reversion (Bollinger/RSI + Trendfilter)",
-   "value": 1019.8376419259405,
-   "total": 0.019837641925940508,
-   "week": 0.008269463885937967,
-   "day": 0.001151745291128714,
+   "value": 1019.7496258582121,
+   "total": 0.01974962585821216,
+   "week": 0.008182446198245819,
+   "day": 0.0010653418910213652,
    "fees": 5.209186707541138,
    "trades": 10,
    "dd": -0.015103918060735966,
    "npos": 2,
    "selected": false,
    "worst_day": -0.009086890173044537,
-   "vol_d": 0.005185257123642477,
+   "vol_d": 0.0051850671397223385,
    "ndays": 25
   },
   {
    "name": "klein",
    "label": "Papier 200 \u20ac (MSCI World \u2013 Aktiv-Topf passt bei diesem Kapital nicht, ETF-Scheiben unter 20 \u20ac)",
-   "value": 203.4171997117341,
-   "total": 0.017085998558670434,
-   "week": 0.017085998558670434,
-   "day": 0.010493538712112782,
+   "value": 203.3311500493335,
+   "total": 0.016655750246667544,
+   "week": 0.016655750246667544,
+   "day": 0.010066079146316964,
    "fees": 1.0,
    "trades": 1,
    "dd": -0.005994000000000055,
    "npos": 1,
    "selected": false,
    "worst_day": 0.0,
-   "vol_d": 0.004210626367909734,
+   "vol_d": 0.004055900986580818,
    "ndays": 6
   },
   {
@@ -100,22 +100,6 @@
    "ndays": 25
   },
   {
-   "name": "bench_dca",
-   "label": "Sparplan MSCI World (quartalsweise) (Vergleich)",
-   "value": 998.0072282309528,
-   "total": -0.001992771769047219,
-   "week": 0.0051590352828940755,
-   "day": 0.0025872472940415836,
-   "fees": 1.0,
-   "trades": 1,
-   "dd": -0.011340461811850555,
-   "npos": 1,
-   "selected": false,
-   "worst_day": -0.005137333421828649,
-   "vol_d": 0.0017961623474185577,
-   "ndays": 25
-  },
-  {
    "name": "cryptotrend",
    "label": "Krypto-Trend mit BTC-Regimefilter (neu)",
    "value": 997.9267001325157,
@@ -132,83 +116,99 @@
    "ndays": 25
   },
   {
+   "name": "bench_dca",
+   "label": "Sparplan MSCI World (quartalsweise) (Vergleich)",
+   "value": 997.9023160686951,
+   "total": -0.002097683931304939,
+   "week": 0.005053371310909327,
+   "day": 0.002481853672642531,
+   "fees": 1.0,
+   "trades": 1,
+   "dd": -0.011340461811850555,
+   "npos": 1,
+   "selected": false,
+   "worst_day": -0.005137333421828649,
+   "vol_d": 0.0017897578245300607,
+   "ndays": 25
+  },
+  {
    "name": "bench_world",
    "label": "Buy & Hold EUNL.DE (Vergleich)",
-   "value": 993.5691370882242,
-   "total": -0.006430862911775748,
-   "week": 0.0210894374987467,
-   "day": 0.010493591097437971,
+   "value": 993.1488368926692,
+   "total": -0.006851163107330804,
+   "week": 0.020657495649669677,
+   "day": 0.010066131509482101,
    "fees": 1.0,
    "trades": 1,
    "dd": -0.045120367077726375,
    "npos": 1,
    "selected": false,
    "worst_day": -0.020616147985580646,
-   "vol_d": 0.007212098777830281,
-   "ndays": 25
-  },
-  {
-   "name": "haupt",
-   "label": "Hauptportfolio (mind. 85 % MSCI World + bis 15 % Aktiv-Topf, vorl\u00e4ufig)",
-   "value": 987.5428568913196,
-   "total": -0.012457143108680402,
-   "week": 0.015133474124594315,
-   "day": 0.009350892269698763,
-   "fees": 6.68232826666456,
-   "trades": 15,
-   "dd": -0.052320825017850625,
-   "npos": 3,
-   "selected": true,
-   "worst_day": -0.01964927219989887,
-   "vol_d": 0.007840292273532216,
+   "vol_d": 0.007186068495235002,
    "ndays": 25
   },
   {
    "name": "riskparity",
    "label": "Risiko-Parit\u00e4t (ohne Filter) (neu)",
-   "value": 987.4572443985348,
-   "total": -0.012542755601465116,
-   "week": 0.005389471552085023,
-   "day": -1.099336926957406e-05,
+   "value": 987.5772308413102,
+   "total": -0.012422769158689784,
+   "week": 0.005511636949097953,
+   "day": 0.00011051581444521119,
    "fees": 3.0629080279260297,
    "trades": 4,
    "dd": -0.027423046913607196,
    "npos": 4,
    "selected": false,
    "worst_day": -0.013944448974056223,
-   "vol_d": 0.004443942628895788,
+   "vol_d": 0.004444554562667104,
+   "ndays": 25
+  },
+  {
+   "name": "haupt",
+   "label": "Hauptportfolio (mind. 85 % MSCI World + bis 15 % Aktiv-Topf, vorl\u00e4ufig)",
+   "value": 987.1799263898926,
+   "total": -0.012820073610107396,
+   "week": 0.01476040383381294,
+   "day": 0.00897994712753003,
+   "fees": 6.68232826666456,
+   "trades": 15,
+   "dd": -0.052320825017850625,
+   "npos": 3,
+   "selected": true,
+   "worst_day": -0.01964927219989887,
+   "vol_d": 0.0078213066810185,
    "ndays": 25
   },
   {
    "name": "coresat",
    "label": "Kern-Satellit 60 % MSCI World + Krypto-Trend (neu)",
-   "value": 985.297187146829,
-   "total": -0.014702812853171099,
-   "week": 0.011936101436309299,
-   "day": 0.006340984747071898,
+   "value": 985.0442865586408,
+   "total": -0.014955713441359153,
+   "week": 0.011676363320134442,
+   "day": 0.0060826827542515005,
    "fees": 1.309554888948352,
    "trades": 5,
    "dd": -0.04108514220587223,
    "npos": 1,
    "selected": false,
    "worst_day": -0.016667672219770724,
-   "vol_d": 0.006147628573566875,
+   "vol_d": 0.006135752578212356,
    "ndays": 25
   },
   {
    "name": "meta",
    "label": "Meta-Allokator (Ensemble)",
-   "value": 978.4250106002119,
-   "total": -0.02157498939978819,
-   "week": 0.007197728839749784,
-   "day": 0.0011906851127159168,
+   "value": 978.4298483645249,
+   "total": -0.021570151635475154,
+   "week": 0.00720270886905805,
+   "day": 0.0011956354405535663,
    "fees": 2.6719473421862094,
    "trades": 14,
    "dd": -0.04600212598195719,
    "npos": 3,
    "selected": false,
    "worst_day": -0.013892089176055222,
-   "vol_d": 0.005208548690247792,
+   "vol_d": 0.005208628957572678,
    "ndays": 25
   },
   {
@@ -262,33 +262,33 @@
   {
    "name": "kelly",
    "label": "Halbes-Kelly-Sizing (Tom-Idee)",
-   "value": 966.8577371932831,
-   "total": -0.03314226280671684,
-   "week": 0.009248073867039075,
-   "day": 0.001281183513776707,
+   "value": 966.764664377206,
+   "total": -0.033235335622794016,
+   "week": 0.009150920421664654,
+   "day": 0.0011847969867317953,
    "fees": 4.0,
    "trades": 4,
    "dd": -0.0504790448631367,
    "npos": 2,
    "selected": false,
    "worst_day": -0.029156675246393315,
-   "vol_d": 0.007694957126983224,
+   "vol_d": 0.007693624355233049,
    "ndays": 25
   },
   {
    "name": "ml",
    "label": "ML v2 (Gradient Boosting, Walk-Forward)",
-   "value": 965.654475543551,
-   "total": -0.034345524456449006,
-   "week": -0.019021761490516154,
-   "day": -7.074955302799335e-05,
+   "value": 966.6448242041615,
+   "total": -0.033355175795838465,
+   "week": -0.01801569720023355,
+   "day": 0.000954750373669766,
    "fees": 1.0611242391728652,
    "trades": 6,
    "dd": -0.04997048055521458,
    "npos": 2,
    "selected": false,
    "worst_day": -0.014240854971423134,
-   "vol_d": 0.005350446896903041,
+   "vol_d": 0.005364681846974086,
    "ndays": 25
   },
   {
@@ -310,167 +310,167 @@
   {
    "name": "voltrend",
    "label": "Trend mit Volatilit\u00e4ts-Ziel",
-   "value": 963.5583045038275,
-   "total": -0.03644169549617249,
-   "week": 0.003883083300300516,
-   "day": 0.0027979904289086033,
+   "value": 963.3832107707233,
+   "total": -0.03661678922927669,
+   "week": 0.0037006619192243573,
+   "day": 0.0026157662263119885,
    "fees": 4.7285872242254925,
    "trades": 12,
    "dd": -0.05716240126005323,
    "npos": 3,
    "selected": false,
    "worst_day": -0.019420202366465356,
-   "vol_d": 0.007525611062066674,
+   "vol_d": 0.007521432717360987,
    "ndays": 25
   },
   {
    "name": "donchian",
    "label": "Donchian-Breakout",
-   "value": 959.2790380420926,
-   "total": -0.04072096195790742,
-   "week": 0.013708600799098969,
-   "day": -0.0015039304819078891,
+   "value": 959.2109977353056,
+   "total": -0.040789002264694396,
+   "week": 0.013636699880330116,
+   "day": -0.0015747523973270727,
    "fees": 5.742435115422988,
    "trades": 12,
    "dd": -0.07134918413909541,
    "npos": 5,
    "selected": false,
    "worst_day": -0.028206276654355378,
-   "vol_d": 0.008709753543594679,
+   "vol_d": 0.008709734411178383,
    "ndays": 25
   },
   {
    "name": "trend",
    "label": "Trend (MA-Crossover + Filter)",
-   "value": 953.5094770080339,
-   "total": -0.0464905229919661,
-   "week": -0.0170598195799182,
-   "day": -0.0007550831476333952,
+   "value": 954.1875336181299,
+   "total": -0.04581246638187009,
+   "week": -0.016360834302127203,
+   "day": -4.450329781091611e-05,
    "fees": 4.770944765026366,
    "trades": 13,
    "dd": -0.06446661036930512,
    "npos": 5,
    "selected": false,
    "worst_day": -0.020255393833452207,
-   "vol_d": 0.007731018046738993,
+   "vol_d": 0.0077364891823953575,
    "ndays": 25
   },
   {
    "name": "tsmom",
    "label": "Zeitreihen-Momentum (w\u00f6chentlich)",
-   "value": 941.776632927928,
-   "total": -0.058223367072072096,
-   "week": -0.027873780938206694,
-   "day": -0.002497279065429736,
+   "value": 942.3074039821615,
+   "total": -0.05769259601783849,
+   "week": -0.02732590531664303,
+   "day": -0.0019351016315457548,
    "fees": 3.698981440244035,
    "trades": 11,
    "dd": -0.0739194521483083,
    "npos": 4,
    "selected": false,
    "worst_day": -0.022754024143351814,
-   "vol_d": 0.008369678425340308,
+   "vol_d": 0.008369972015462293,
    "ndays": 25
   },
   {
    "name": "xsmom",
    "label": "Momentum-Rotation (Top-K, w\u00f6chentlich)",
-   "value": 933.3798932558323,
-   "total": -0.06662010674416774,
-   "week": -0.02224775433122761,
-   "day": -0.001182369947769768,
+   "value": 934.0966153570937,
+   "total": -0.06590338464290635,
+   "week": -0.02149695966649101,
+   "day": -0.0004153996329381293,
    "fees": 1.2687803125899362,
    "trades": 7,
    "dd": -0.09085699312700646,
    "npos": 1,
    "selected": false,
    "worst_day": -0.034314880773248624,
-   "vol_d": 0.011307543948382187,
+   "vol_d": 0.011312743487097422,
    "ndays": 25
   },
   {
    "name": "bench_btc",
    "label": "Buy & Hold BTC (Vergleich)",
-   "value": 912.0899355488566,
-   "total": -0.08791006445114335,
-   "week": -0.020386059203170492,
-   "day": -0.0005994326891670676,
+   "value": 915.6682834053535,
+   "total": -0.08433171659464656,
+   "week": -0.01654279845812634,
+   "day": 0.003321455743470425,
    "fees": 0.999000999000999,
    "trades": 1,
    "dd": -0.13278946022881055,
    "npos": 1,
    "selected": false,
    "worst_day": -0.052667277033101034,
-   "vol_d": 0.018887520271636603,
+   "vol_d": 0.018928106219280615,
    "ndays": 25
   }
  ],
  "total_fees": 62.80365663332041,
  "total_trades": 143,
  "last_cycles": {
-  "crypto": "2026-11-11T10:15:00",
+  "crypto": "2026-11-11T10:30:00",
   "stocks": "2026-11-11T10:05:00",
   "all": null
  },
  "memecoins_trending": [
   {
-   "symbol": "BTC",
-   "name": "Bitcoin",
-   "change_24h": -0.12629,
-   "risk": "keine Warnzeichen"
-  },
-  {
    "symbol": "SI",
    "name": "Super Inu",
-   "change_24h": 7.90857,
+   "change_24h": 9.09424,
    "risk": "HOCH"
   },
   {
    "symbol": "ZEC",
    "name": "Zcash",
-   "change_24h": -13.06047,
+   "change_24h": -12.59939,
    "risk": "keine Warnzeichen"
   },
   {
-   "symbol": "SUI",
-   "name": "Sui",
-   "change_24h": -0.3653,
+   "symbol": "BTC",
+   "name": "Bitcoin",
+   "change_24h": 0.28331,
    "risk": "keine Warnzeichen"
   },
   {
    "symbol": "LIT",
    "name": "Lighter",
-   "change_24h": 6.02461,
+   "change_24h": 6.84262,
    "risk": "keine Warnzeichen"
   },
   {
-   "symbol": "PEPE",
-   "name": "Pepe",
-   "change_24h": -4.55485,
-   "risk": "keine Warnzeichen"
-  },
-  {
-   "symbol": "PEARL",
-   "name": "Pearl",
-   "change_24h": -14.21839,
-   "risk": "keine Warnzeichen"
-  },
-  {
-   "symbol": "TAO",
-   "name": "Bittensor",
-   "change_24h": -0.11325,
+   "symbol": "SUI",
+   "name": "Sui",
+   "change_24h": 0.10914,
    "risk": "keine Warnzeichen"
   },
   {
    "symbol": "GRAM",
    "name": "Gram (prev. Toncoin)",
-   "change_24h": 11.18799,
+   "change_24h": 12.9942,
    "risk": "keine Warnzeichen"
   },
   {
-   "symbol": "UNI",
-   "name": "Uniswap",
-   "change_24h": -7.17796,
+   "symbol": "PEPE",
+   "name": "Pepe",
+   "change_24h": -3.7769,
    "risk": "keine Warnzeichen"
+  },
+  {
+   "symbol": "TAO",
+   "name": "Bittensor",
+   "change_24h": 0.4438,
+   "risk": "keine Warnzeichen"
+  },
+  {
+   "symbol": "HYPE",
+   "name": "Hyperliquid",
+   "change_24h": -1.67905,
+   "risk": "keine Warnzeichen"
+  },
+  {
+   "symbol": "JCT",
+   "name": "Janction",
+   "change_24h": 5.3626,
+   "risk": "SEHR HOCH"
   }
  ],
  "selected_strategies": [
@@ -478,8 +478,8 @@
  ],
  "configs_tried": 95,
  "lab": {
-  "active": 33,
-  "ever": 151,
+  "active": 36,
+  "ever": 154,
   "trades_total": 328,
   "trades_24h": 60,
   "backfill_trades": 91,
@@ -487,31 +487,31 @@
    {
     "id": "L051",
     "family": "satrend",
-    "ret": 9.01707,
+    "ret": 9.0134316,
     "trades": 4
    },
    {
     "id": "L139",
     "family": "cryptoresearch",
-    "ret": 3.0121329999999995,
+    "ret": 3.0184578,
     "trades": 1
    },
    {
     "id": "L144",
     "family": "cryptoresearch",
-    "ret": 3.0121329999999995,
+    "ret": 3.0184578,
     "trades": 1
    },
    {
     "id": "L149",
     "family": "cryptoresearch",
-    "ret": 3.0121329999999995,
+    "ret": 3.0184578,
     "trades": 1
    },
    {
     "id": "L142",
     "family": "cryptoresearch",
-    "ret": 3.0101107999999996,
+    "ret": 3.0153816000000004,
     "trades": 1
    }
   ],
@@ -684,6 +684,24 @@
     "day": 0.3,
     "decide_in": 60,
     "status": "l\u00e4uft"
+   },
+   {
+    "id": "L152",
+    "day": 0.0,
+    "decide_in": 60,
+    "status": "l\u00e4uft"
+   },
+   {
+    "id": "L153",
+    "day": 0.0,
+    "decide_in": 60,
+    "status": "l\u00e4uft"
+   },
+   {
+    "id": "L154",
+    "day": 0.0,
+    "decide_in": 60,
+    "status": "l\u00e4uft"
    }
   ],
   "meme_lab_trades": 5,
@@ -699,7 +717,7 @@
   "meme_lab_trades": 5,
   "copy_trading": {
    "copy_all": {
-    "value": 820.3169,
+    "value": 820.6343,
     "trades": 94,
     "positions": 6
    },
@@ -806,12 +824,12 @@
   "alerts_total": 35
  },
  "kol_lab": {
-  "observed_swaps": 5483,
-  "median_lag_min": 1719.5,
-  "median_premium": -0.685624922645938,
+  "observed_swaps": 5513,
+  "median_lag_min": 1705.9,
+  "median_premium": -0.6841129587282098,
   "books": {
    "kol_fast": {
-    "value": 767.488216322719,
+    "value": 767.7762619986678,
     "buys": 45,
     "sells": 41,
     "open": 4
@@ -830,7 +848,7 @@
    },
    {
     "name": "Cupsey",
-    "coverage": 0.8359
+    "coverage": 0.8433
    },
    {
     "name": "letterbomb",
@@ -898,7 +916,7 @@
    "high": 270,
    "normal": 248,
    "copy": 270,
-   "polled_last": 27,
+   "polled_last": 16,
    "copy_only_high": true
   }
  },
